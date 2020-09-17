@@ -39,7 +39,7 @@ You can find out the path to your `python3` interpreter with the command `which 
 ## Posting requests locally
 When the service is running, try this link in your browser
 ```
-    127.0.0.1/docs
+    127.0.0.1:8008/docs
 ```
 
 You can try the following curl command to see the model's response
