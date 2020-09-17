@@ -1,9 +1,9 @@
 version: "3"
 
 services:
-  fastapi-ml-quickstart:
+  mldemo:
     build: .
-    container_name: fastapi-ml-quickstart
+    container_name: mldemo
     ports:
       - 8000:8000
 
